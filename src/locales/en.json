@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "Urban Cycling Routes",
+    "description": "Manage and explore cycling routes in your city"
+  },
+  "routes": {
+    "listTitle": "Routes List",
+    "addRoute": "Add New Route",
+    "routeName": "Route Name",
+    "routeDescription": "Description",
+    "submit": "Submit",
+    "namePlaceholder": "Enter route name",
+    "descriptionPlaceholder": "Enter route description",
+    "noRoutes": "No routes available."
+  },
+  "messages": {
+    "routeAdded": "Route successfully added!",
+    "errorOccurred": "An error occurred, please try again."
+  }
+}
