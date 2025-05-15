@@ -1,0 +1,20 @@
+{
+  "parkings": [
+    {
+      "id": 1,
+      "name":"hola",
+      "latitude": 100,
+      "length": 50,
+      "total_spaces":100,
+      "available_spaces":50
+    },
+    {
+      "id": 2,
+      "name":"holaa",
+      "latitude": 1020,
+      "length": 505,
+      "total_spaces":1040,
+      "available_spaces":510
+    }
+  ]
+}
