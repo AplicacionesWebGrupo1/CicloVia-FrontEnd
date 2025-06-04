@@ -1,0 +1,9 @@
+{
+  "option": {
+    "home": "Home",
+    "function": "Parkings",
+    "parking":"Parking",
+    "near": "Parking near your location",
+    "review":"Reviews"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "option": {
+    "home": "Inicio",
+    "function": "Estacionamientos",
+    "parking":"Estacionamiento",
+    "near": "Estacionamientos cercanos a su ubicación",
+    "review":"Reseñas"
+  }
+}
