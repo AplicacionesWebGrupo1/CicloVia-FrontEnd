@@ -2,8 +2,8 @@ import httpInstance from "@/shared/services/http.instance.js";
 
 
 export class ParkingService{
-    resourceEndpoint = import.meta.env.VITE_PARKINGS_ENDPOINT_PATH;
-    reviewsEndpoint = import.meta.env.VITE_REVIEWS_ENDPOINT_PATH;
+    resourceEndpoint = "/parkings";
+    reviewsEndpoint = "/reviews";
 
     getAll(){
         return httpInstance.get(this.resourceEndpoint);
