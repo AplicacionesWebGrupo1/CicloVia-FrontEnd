@@ -1,0 +1,24 @@
+{
+  "option": {
+    "home": "Inicio",
+    "function": "Estacionamientos",
+    "parking":"Estacionamiento",
+    "near": "Estacionamientos cercanos a su ubicación",
+    "review":"Reseñas",
+    "routes":"Rutas"
+  },
+  "routes": {
+    "listTitle": "Lista de Rutas",
+    "addRoute": "Agregar Nueva Ruta",
+    "routeName": "Nombre de la Ruta",
+    "routeDescription": "Descripción",
+    "submit": "Enviar",
+    "namePlaceholder": "Ingrese el nombre de la ruta",
+    "descriptionPlaceholder": "Ingrese la descripción de la ruta",
+    "noRoutes": "No hay rutas disponibles."
+  },
+  "messages": {
+    "routeAdded": "¡Ruta agregada con éxito!",
+    "errorOccurred": "Ocurrió un error, por favor intenta nuevamente."
+  }
+}

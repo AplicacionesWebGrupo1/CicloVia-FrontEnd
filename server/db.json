@@ -1,0 +1,92 @@
+{
+  "parkings": [
+    {
+      "id": 1,
+      "name": "Estacionamiento flores",
+      "total_spaces": 44,
+      "available_spaces": 30
+    },
+    {
+      "id": 2,
+      "name": "Parque de bibicletas",
+      "total_spaces": 40,
+      "available_spaces": 22
+    },
+    {
+      "id": 3,
+      "name": "Primavera",
+      "total_spaces": 20,
+      "available_spaces": 5
+    },
+    {
+      "id": 4,
+      "name": "Estacionamiento flores",
+      "total_spaces": 44,
+      "available_spaces": 35
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "title": "Buen estacionamiento",
+      "content": "Es bueno",
+      "parkingId": 1
+    },
+    {
+      "id": 2,
+      "title": "Buen estacionamiento excelente",
+      "content": "Es bueno y excelente",
+      "parkingId": 2
+    },
+    {
+      "id": 4,
+      "title": "Buen estacionamiento",
+      "content": "El estacionamiento es asombroso.",
+      "parkingId": "3"
+    },
+    {
+      "id": 6,
+      "title": "Excelente",
+      "content": "Excelente estacionamiento.",
+      "parkingId": "4"
+    },
+    {
+      "id": 7,
+      "title": "Recomendado",
+      "content": "Excelente estacionamiento.",
+      "parkingId": "1"
+    },
+    {
+      "id": 8,
+      "title": "Bueno",
+      "content": "Muy bueno",
+      "parkingId": "1"
+    }
+  ],
+  "routes": [
+    {
+      "id": "1",
+      "name": "Ruta Central",
+      "startPoint": "Parque Central",
+      "endPoint": "Plaza Mayor"
+    },
+    {
+      "id": "2",
+      "name": "Ruta Universitaria",
+      "startPoint": "Universidad Nacional",
+      "endPoint": "Biblioteca Central"
+    },
+    {
+      "id": "3",
+      "name": "Ruta Costera",
+      "startPoint": "Malecón Sur",
+      "endPoint": "Playa Norte"
+    },
+    {
+      "id": "4",
+      "name": "Ruta Histórica",
+      "startPoint": "Museo de la Ciudad",
+      "endPoint": "Monumento a la Independencia"
+    }
+  ]
+}
