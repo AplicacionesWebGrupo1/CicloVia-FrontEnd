@@ -1,0 +1,1 @@
+import{_ as n,c as s,a as e,t as a,o as i}from"./index-C8PSO4_L.js";const l={name:"home",title:"Home"},r={class:"w-full"};function c(t,o,p,m,_,d){return i(),s("div",r,[e("h1",null,a(t.$t("option.home")),1),o[0]||(o[0]=e("p",null,"Bienvenido a CicloVia!!!",-1))])}const u=n(l,[["render",c]]);export{u as default};
